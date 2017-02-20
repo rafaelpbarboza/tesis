@@ -1,5 +1,5 @@
-name = 'sub-tema'
-description = Uses the Bootstrap Framework Less source files and must be compiled (not for beginners).
+name = 'sub'
+description = un subtema creado con bootstrap be compiled (not for beginners).
 core = 7.x
 base theme = bootstrap
 
