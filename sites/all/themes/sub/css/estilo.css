@@ -1,0 +1,17 @@
+.not-logged-in #navbar{
+  display:none;
+
+}
+.not-logged-in .highlighted{
+  background:none;
+ background-image: url("")!important;
+  
+}
+.not-logged-in #user-login-form ul {
+  display:none;
+}
+.not-logged-in .main-container {
+ background-image:url('sites/all/themes/sub/imagenes/logo2.jpg')!important;
+  background-repeat: no-repeat;
+    background-size: contain;
+}
